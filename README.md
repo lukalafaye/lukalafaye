@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there+I+am+Luka+!)](https://git.io/typing-svg)
+<p align="center">
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there+I+am+Luka+!)](https://git.io/typing-svg)
+</p>
 
 <p align="center">
  <a href="https://linkedin.com/in/lukalafaye" target="_blank">
