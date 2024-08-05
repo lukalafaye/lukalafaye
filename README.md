@@ -20,6 +20,9 @@
 <p align="center">
   <a href="https://github.com/lukalafaye">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukalafaye&theme=radical" alt="lukalafaye's GitHub Contribution"/>
+  <a href="https://github.com/lukalafaye"><img alt="lukalafaye's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lukalafaye&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+
   </a>
 </p>
 
