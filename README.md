@@ -10,27 +10,14 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/lukalafaye">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukalafaye&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak">
-  </a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lukalafaye&theme=meta-dark)](https://git.io/streak-stats)
 
-<p align="center">
-  <a href="https://github.com/lukalafaye">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukalafaye&theme=radical" alt="GitHub Contribution" style="width: 49.5%;">
-  </a>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukalafaye&theme=aura_dark) 
 
-<p align="center">
-  <a href="https://github.com/lukalafaye">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lukalafaye&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" style="width: 49.5%; margin-right: 1%;">
-  </a>
-  <a href="https://github.com/lukalafaye">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=lukalafaye&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" style="width: 49.5%; margin-left: 1%;">
-  </a>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lukalafaye&theme=aura_dark) 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lukalafaye&custom_title=Luka's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph">
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lukalafaye&theme=aura_dark) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lukalafaye&theme=aura_dark&utcOffset=8)
+
+![Luka's Graph](https://github-readme-activity-graph.vercel.app/graph?username=lukalafaye&custom_title=Luka's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
