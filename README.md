@@ -20,14 +20,14 @@
   <a href="https://github.com/lukalafaye">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukalafaye&theme=radical" alt="GitHub Contribution" style="width: 49.5%;">
   </a>
-  <a href="https://github.com/lukalafaye">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lukalafaye&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" style="width: 49.5%;">
-  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/lukalafaye">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=lukalafaye&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" style="width: 49.5%;">
+  </a>
+  <a href="https://github.com/lukalafaye">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lukalafaye&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" style="width: 49.5%;">
   </a>
 </p>
 
