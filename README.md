@@ -1,14 +1,4 @@
-<p align="center">
-  <a href="https://github.com/lukalafaye"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile></a>
-</p>
-
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b>Luka</b>
-        </samp>
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there+I+am+Luka+!)](https://git.io/typing-svg)
 
 <p align="center">
  <a href="https://linkedin.com/in/lukalafaye" target="_blank">
